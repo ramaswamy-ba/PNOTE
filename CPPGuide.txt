@@ -1,3 +1,5 @@
 
 Confuses 
 https://cppquiz.org/quiz/question/126 -- 
+
+https://github.com/HerikLyma/atomic_queue -- Lock Free Queue
