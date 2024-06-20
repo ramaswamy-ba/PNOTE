@@ -1,5 +1,6 @@
 
 Confuses 
 https://cppquiz.org/quiz/question/126 -- 
+https://www.modernescpp.org/resources/#top -- Guide list
 
 https://github.com/HerikLyma/atomic_queue -- Lock Free Queue
